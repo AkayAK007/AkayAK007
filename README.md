@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkayAK007
 - 👀 I’m interested in AI / Web DEV
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...Projects those Are interactive And opportunity based
+- 🌱 I’m currently learning Java and CS Core Subjects
+- 💞️ I’m looking to collaborate on Projects those Are interactive And opportunity based
 - 📫 How to reach me ... Instagram - aiyush._kumar007
 
 <!---
